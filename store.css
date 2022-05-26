@@ -1,0 +1,77 @@
+@font-face {
+    font-family: "Roboto";
+    src: url(http://fonts.gstatic.com/s/roboto/v15/mErvLBYg_cXG3rLvUsKT_fesZW2xOQ-xsNqO47m55DA.woff2);
+}
+.container {
+    max-width: 1200px;
+    margin-top: 40px;
+    
+    padding: 30px 10px 10px 10px;  
+}
+@media (max-width:1200px) {
+    .container {max-width: 970px;}
+   }
+@media (max-width: 992px) {
+       .container {
+           max-width: 750px;
+       }
+   }
+@media (max-width: 767px) {
+       .container {
+           max-width: none;
+       }
+}
+body {
+    font-family: roboto;
+}
+.uber {
+    display: flex;
+    min-height: 100%;
+    overflow: hidden;
+    flex-direction: column;
+}
+header {
+    background-color: #ffffff;
+    margin: 1px -10px 5px -15px;
+    padding-left: 40px;
+    padding-right: 30px;
+    box-shadow: 0px 6px 4px -4px rgba(0, 0, 0, .2);
+    
+    
+}
+nav {
+    margin-right: -400px;
+}
+.logo {
+    float: left;
+    margin-top: -50px;
+    padding-top: 10px;
+    padding-left: 30px;
+    vertical-align: top;
+}
+ul { 
+    float: right;
+    margin-top: -50px;
+   padding-right: 30px;
+    
+    list-style: none;
+    vertical-align: top;
+}
+ul li {
+  float: left;
+  margin-right: 10px;
+  
+  
+}
+
+.border_1 {
+    border: 1px solid #e0e0e0;
+    
+}
+ul li a {
+    display: block;
+    padding: 10px 10px 10px 10px;
+    text-decoration: none;
+    position: relative;
+    color: #1d1d1d;
+}
