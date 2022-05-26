@@ -4,9 +4,9 @@
 }
 .container {
     max-width: 1200px;
-    margin-top: 40px;
-    
+    margin-top: 50px;
     padding: 30px 10px 10px 10px;  
+    
 }
 @media (max-width:1200px) {
     .container {max-width: 970px;}
@@ -96,4 +96,31 @@ hr {
     margin-top: -20px;
     padding-right: 1530px;
 
+}
+.main {
+    float: left;
+    margin: 20px 60px 20px 50px;
+      
+}
+.h_1 {
+    font-style: regular;
+    font-size: 22px;
+    line-height: 34px;
+    text-align: left;
+    vertical-align: center;
+    color: #1d1d1d;
+    
+}
+.foods {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px -310px 10px -510px;
+   
+    
+}
+.food {
+    
+   flex-basis: 30%;
 }
