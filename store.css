@@ -75,3 +75,25 @@ ul li a {
     position: relative;
     color: #1d1d1d;
 }
+.p_p {
+    font-style: regular;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: left;
+    vertical-align: center;
+    color: #626262; 
+    
+    opacity: 50%;
+}
+.p_1 {
+    float: left;
+    margin: -40px 60px 20px 50px;
+    
+}
+hr {
+    border-bottom-style: 1px solid;
+    opacity: 30%;
+    margin-top: -20px;
+    padding-right: 1530px;
+
+}
