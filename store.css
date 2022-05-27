@@ -48,7 +48,7 @@ nav {
     margin-top: -10px;
     vertical-align: top;
 }
-ul { 
+ul.ki { 
     float: right;
     margin-top: -20px;
     margin-right: -150px;
@@ -142,9 +142,132 @@ hr {
   box-sizing: border-box;
   
    flex-basis: 30%;  
+   margin-bottom: 20px;
 }
 .r {
     max-width: 317.94px;
     max-height: 256px;
-
+    
 }
+.g {
+    max-width: 317.94px;
+    max-height: 256px;
+    background-color: #757575;
+}
+.food-name {
+    max-width: 308px;
+    font-size: 16px;
+    max-height: 24px;
+    text-align: left;
+    vertical-align: center;
+    color: #1d1d1d;
+    margin: 10px 0px 30px 134px;
+}
+ul.kitchen {
+    float: left;
+    margin-top: -23px;
+    margin-left: 94px;
+    line-height: 21px;
+    font-size: 14px;
+    
+    vertical-align: center;
+    text-align: left;
+}
+ul.kitchen li.not {
+    list-style: none;
+}
+
+.not, .yes {
+    padding-right: 10px;
+}
+.time_1 { 
+    float: left;
+    margin-top: 3px;
+    margin-left: -107px;
+    font-size: 13px;
+    line-height: 21px;
+    text-align: left;
+    vertical-align: center;
+    color:#1d1d1d;
+}
+.time_2 { 
+    float: left;
+    margin-top: 3px;
+    margin-left: -275px;
+    font-size: 13px;
+    line-height: 21px;
+    text-align: left;
+    vertical-align: center;
+    color:#1d1d1d;
+}
+.time_3 { 
+    float: left;
+    margin-top: 3px;
+    margin-left: -237px;
+    font-size: 13px;
+    line-height: 21px;
+    text-align: left;
+    vertical-align: center;
+    color:#1d1d1d;
+}
+.time_4 { 
+    float: left;
+    margin-top: 3px;
+    margin-left: -135px;
+    font-size: 13px;
+    line-height: 21px;
+    text-align: left;
+    vertical-align: center;
+    color:#1d1d1d;
+}
+.time_5 { 
+    float: left;
+    margin-top: 3px;
+    margin-left: -135px;
+    font-size: 13px;
+    line-height: 21px;
+    text-align: left;
+    vertical-align: center;
+    color:#1d1d1d;
+}
+.time_6 { 
+    float: left;
+    margin-top: 3px;
+    margin-left: -254px;
+    font-size: 13px;
+    line-height: 21px;
+    text-align: left;
+    vertical-align: center;
+    color:#1d1d1d;
+}
+.time_7 { 
+    float: left;
+    margin-top: 3px;
+    margin-left: -94px;
+    font-size: 13px;
+    line-height: 21px;
+    text-align: left;
+    vertical-align: center;
+    color:#1d1d1d;
+}
+.time_8 { 
+    float: left;
+    margin-top: 3px;
+    margin-left: -113px;
+    font-size: 13px;
+    line-height: 21px;
+    text-align: left;
+    vertical-align: center;
+    color:#1d1d1d;
+}
+.time_9 { 
+    float: left;
+    margin-top: 3px;
+    margin-left: -138px;
+    font-size: 13px;
+    line-height: 21px;
+    text-align: left;
+    vertical-align: center;
+    color:#1d1d1d;
+}
+
