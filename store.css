@@ -4,8 +4,7 @@
 }
 .container {
     max-width: 1200px;
-    margin-top: 50px;
-    padding: 30px 10px 10px 10px;  
+    margin: 0 auto;  
     
 }
 @media (max-width:1200px) {
@@ -32,40 +31,48 @@ body {
 }
 header {
     background-color: #ffffff;
-    margin: 1px -10px 5px -15px;
-    padding-left: 40px;
-    padding-right: 30px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+   
+    max-height: 72px;
     box-shadow: 0px 6px 4px -4px rgba(0, 0, 0, .2);
     
     
 }
 nav {
-    margin-right: -400px;
+    margin-right: -10px;
 }
 .logo {
     float: left;
-    margin-top: -50px;
-    padding-top: 10px;
-    padding-left: 30px;
+    margin-left: -150px;
+    margin-top: -10px;
     vertical-align: top;
 }
 ul { 
     float: right;
-    margin-top: -50px;
-   padding-right: 30px;
-    
+    margin-top: -20px;
+    margin-right: -150px;
     list-style: none;
     vertical-align: top;
 }
 ul li {
   float: left;
   margin-right: 10px;
-  
+  font-family: 'roboto';
+  font-style: medium;
+  font-size: 13px;
+  line-height: 24px;
+  text-align: center;
+  vertical-align: center;
+  color: #1d1d1d;
   
 }
 
 .border_1 {
     border: 1px solid #e0e0e0;
+    padding-right: 10px;
+    padding-left: 10px;
+    
     
 }
 ul li a {
@@ -87,40 +94,57 @@ ul li a {
 }
 .p_1 {
     float: left;
-    margin: -40px 60px 20px 50px;
+    margin-top: 20px;
+    margin-left: -150px;
     
 }
 hr {
     border-bottom-style: 1px solid;
     opacity: 30%;
-    margin-top: -20px;
-    padding-right: 1530px;
+    margin-top: -15px;
+    margin-right: -1255px;
+    
 
 }
 .main {
     float: left;
-    margin: 20px 60px 20px 50px;
+    margin-top: 150px;
+    margin-left: -235px;
       
 }
 .h_1 {
-    font-style: regular;
+    font-style: normal;
     font-size: 22px;
     line-height: 34px;
     text-align: left;
     vertical-align: center;
     color: #1d1d1d;
+    font-family: 'roboto';
     
 }
 .foods {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
-    align-items: center;
-    margin: 10px -310px 10px -510px;
+    justify-content: center;
+    margin-top: 220px;
+    margin-left: -376px;
+    margin-right: -357px;
+    
+   
+    
+  
    
     
 }
 .food {
-    
-   flex-basis: 30%;
+    text-align: center;
+  
+  box-sizing: border-box;
+  
+   flex-basis: 30%;  
+}
+.r {
+    max-width: 317.94px;
+    max-height: 256px;
+
 }
