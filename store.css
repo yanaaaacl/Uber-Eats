@@ -39,7 +39,7 @@ header {
     
     
 }
-nav {
+.nav_1 {
     margin-right: -10px;
 }
 .logo {
@@ -98,7 +98,7 @@ ul li a {
     margin-left: -150px;
     
 }
-hr {
+.hr_1 {
     border-bottom-style: 1px solid;
     opacity: 30%;
     margin-top: -15px;
@@ -270,4 +270,39 @@ ul.kitchen li.not {
     vertical-align: center;
     color:#1d1d1d;
 }
+footer {
+    background-color: #262626;
+    
+}
+.white_logo {
+    float: left;
+    margin-left: -150px;
+    margin-top: 60px;
+    margin-bottom: 50px;
+    max-width: 16.34px;
+    max-height: 18.92px;
+    vertical-align: top;
+}
+.hr_2 {
+    
+    border-bottom-style: 1px solid;
+    opacity: 40%;
+    color: #ffffff;
+    margin-top: 30px;
+    margin-right: -1460px;
+}
+select {
+    float: left;
+    background: #3b3b3b url(images/world.svg) no-repeat 10px 10px;
+    border-style: none;
+    color: #ffffff;
+    font-family: 'roboto';
+    font-size: 13px;
+    margin-top: 155px;
+    margin-bottom: 30px;
+    margin-left: -150px;
+    padding: 10px 50px 10px 50px;
+    
+}
+
 
