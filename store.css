@@ -368,3 +368,23 @@ ul.social_1 {
     color: #ffffff;
     
 }
+.submit {
+    margin-top: 50px;
+    margin-bottom: 50px;
+   padding-left: 500px;
+}
+.smole_2 {
+    max-width: 135px;
+    padding: 0px 30px 0px 10px;
+}
+.hr_5 {
+    margin-top: 50px;
+    margin-left: -152px;
+    margin-right: -147px;
+}
+.hr_6 {
+    border-bottom-style: 1px solid;
+    opacity: 40%;
+    color: #ffffff; 
+}
+
