@@ -55,7 +55,7 @@ ul.ki {
     list-style: none;
     vertical-align: top;
 }
-ul li {
+ul.ki li.border_1, li.ji, ul.kitchen li.not, li.yes {
   float: left;
   margin-right: 10px;
   font-family: 'roboto';
@@ -304,5 +304,41 @@ select {
     padding: 10px 50px 10px 50px;
     
 }
-
+.navigation_1 {
+    padding-top: 140px;
+    
+    
+}
+.partners {
+   list-style-type: none;
+   float: left;
+   margin-left: 100px;
+    
+    
+}
+.about {
+    
+    font-family: "roboto";
+    font-size: 13px;
+    
+    color: #ffffff;
+}
+.about a {
+    display: block;
+    padding: 10px 10px 10px 10px;
+    text-decoration: none;
+    
+    color: #ffffff;
+}
+.h3_1 {
+    float: left;
+    color: #ffffff;
+    padding-top: 70px;
+    margin-left: -778px;
+    font-family: "roboto", sans-serif;
+    font-size: 16px;
+}
+.span_sp {
+    color: #49a144;
+}
 
