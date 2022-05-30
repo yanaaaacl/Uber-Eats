@@ -388,3 +388,26 @@ ul.social_1 {
     color: #ffffff; 
 }
 
+.done {
+    font-size: 11px;
+    color: #ffffff;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    
+}
+.k {
+    float: left;
+    margin-left: -150px;
+    margin-bottom: 30px;
+}
+.h {
+    float: right;
+    margin-right: 500px;
+    margin-bottom: 30px;
+}
+.l {
+    float: left;
+    margin-left: 200px;
+    margin-bottom: 30px;
+}
+
