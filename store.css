@@ -391,8 +391,9 @@ ul.social_1 {
 .done {
     font-size: 11px;
     color: #ffffff;
-    margin-top: 30px;
-    margin-bottom: 30px;
+    position: fixed;
+   left: 359px;
+    
     
 }
 .k {
@@ -409,5 +410,13 @@ ul.social_1 {
     float: left;
     margin-left: 200px;
     margin-bottom: 30px;
+}
+.fiksi {
+    
+    
+    background-color: #59bd5a;
+    
+    
+    
 }
 
