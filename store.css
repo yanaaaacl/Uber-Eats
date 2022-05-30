@@ -341,4 +341,30 @@ select {
 .span_sp {
     color: #49a144;
 }
-
+ul.social_1 {
+    float: left;
+    padding-top: 100px;
+   margin-left: -830px;
+    list-style-type: none;
+    
+}
+.soc{
+    float: left;
+    
+} 
+.soc a {
+    display: block;
+    padding: 10px 5px 10px 10px;
+    text-decoration: none;   
+}
+.hr_3 {
+    margin-top: 210px;
+    margin-left: -152px;
+    margin-right: -143px;
+}
+.hr_4 {
+    border-bottom-style: 1px solid;
+    opacity: 40%;
+    color: #ffffff;
+    
+}
