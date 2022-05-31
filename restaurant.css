@@ -286,3 +286,154 @@ li.li_1 {
     vertical-align: center;
     margin-left: 5px;
 }
+footer {
+    background-color: #262626;
+    
+}
+.white_logo {
+    float: left;
+    margin-left: -150px;
+    margin-top: 60px;
+    margin-bottom: 50px;
+    max-width: 16.34px;
+    max-height: 18.92px;
+    vertical-align: top;
+}
+.hr_2 {
+    
+    border-bottom-style: 1px solid;
+    opacity: 40%;
+    color: #ffffff;
+    margin-top: 30px;
+    margin-right: -1460px;
+}
+select {
+    float: left;
+    background: #3b3b3b url(images/world.svg) no-repeat 10px 10px;
+    border-style: none;
+    color: #ffffff;
+    font-family: 'roboto';
+    font-size: 13px;
+    margin-top: 155px;
+    margin-bottom: 30px;
+    margin-left: -150px;
+    padding: 10px 50px 10px 50px;
+    
+}
+.navigation_1 {
+    padding-top: 140px;
+    
+    
+}
+.partners {
+   list-style-type: none;
+   float: left;
+   margin-left: 100px;
+    
+    
+}
+.about {
+    
+    font-family: "roboto";
+    font-size: 13px;
+    
+    color: #ffffff;
+}
+.about a {
+    display: block;
+    padding: 10px 10px 10px 10px;
+    text-decoration: none;
+    
+    color: #ffffff;
+}
+.h3_1 {
+    float: left;
+    color: #ffffff;
+    padding-top: 70px;
+    margin-left: -778px;
+    font-family: "roboto", sans-serif;
+    font-size: 16px;
+}
+.span_sp {
+    color: #49a144;
+}
+ul.social_1 {
+    float: left;
+    padding-top: 100px;
+   margin-left: -830px;
+    list-style-type: none;
+    
+}
+.soc{
+    float: left;
+    
+} 
+.soc a {
+    display: block;
+    padding: 10px 5px 10px 10px;
+    text-decoration: none;   
+}
+.hr_3 {
+    margin-top: 210px;
+    margin-left: -152px;
+    margin-right: -143px;
+}
+.hr_4 {
+    border-bottom-style: 1px solid;
+    opacity: 40%;
+    color: #ffffff;
+    
+}
+.submit {
+    margin-top: 50px;
+    margin-bottom: 50px;
+   padding-left: 500px;
+}
+.smole_2 {
+    max-width: 135px;
+    padding: 0px 30px 0px 10px;
+}
+.hr_5 {
+    margin-top: 50px;
+    margin-left: -152px;
+    margin-right: -147px;
+}
+.hr_6 {
+    border-bottom-style: 1px solid;
+    opacity: 40%;
+    color: #ffffff; 
+}
+
+.done {
+    font-size: 11px;
+    color: #ffffff;
+    margin-bottom: 50px;
+    
+    
+}
+.k {
+    float: left;
+    margin-left: -150px;
+    margin-bottom: 30px;
+}
+.h {
+    float: right;
+    margin-right: 500px;
+    margin-bottom: 30px;
+}
+.l {
+    float: left;
+    margin-left: 200px;
+    margin-bottom: 30px;
+}
+.fiksi {
+    position: fixed;
+    top: 830px;
+    right: 90px;
+    background-color:#49a144;
+    
+}
+.fiksi .spape_1 {
+    border: none;
+    padding: 20px 30px 20px 30px;
+}
