@@ -86,10 +86,7 @@ ul li a {
     position: relative;
     color: #1d1d1d;
 }
-.sec {
-    margin-top: -30px;
-        
-}
+
 .tractir {
     background-image: url(images_res/d42ea9bbf7aff297c2e1eb5e5f3b7fa6-w1080-87.png); 
     background-repeat: no-repeat;
@@ -97,14 +94,14 @@ ul li a {
     margin-right: -400px;
     
     margin-left: -800px;
-  
-   margin-top: 10px;
+ padding-bottom: 680px;
+   margin-top: -30px;
     
-    padding-bottom: 780px;
+    
     
 }
 .pushkin_1 {
-    margin-top: -620px;
+    margin-top: -600px;
     float: left;
     padding: 40px 50px 40px 50px;
     background-color: #ffffff;
@@ -116,7 +113,7 @@ ul li a {
     margin-top: 10px;
 }
 ul.price {
-   padding-top: 30px;
+   padding-top: 20px;
 }
 ul.price li.euros {
     display: block;
@@ -140,4 +137,152 @@ li.euros, li.name_name {
     margin-top: -50px;
     color: #ffffff;
     padding: 10px 30px 10px 30px;
+}
+
+ul.navi_1 {
+    list-style-type: none;
+    margin-left: -200px;
+    
+}
+ul.navi_1 li.li_1, li.li_2 {
+    display: block;
+    float: left;
+    list-style-type: none;
+    
+}
+li.li_1, li.li_2 {
+    padding-right: 50px;
+    font-size: 16px;
+    vertical-align: bottom;
+    font-family: "roboto", sans-serif;
+}
+ul.navi_1 li.li_2 {
+    color: #327430;
+}
+li.li_1 {
+    color: #626262;
+}
+.hr_r {
+    margin-left: -650px;
+    margin-right: -650px;
+    margin-top: 80px;
+}
+.main {
+    float: left;
+    margin-top: 50px;
+    margin-left: -130px;
+      
+}
+.h_1 {
+    font-style: normal;
+    font-size: 22px;
+    line-height: 34px;
+    text-align: left;
+    vertical-align: center;
+    color: #1d1d1d;
+    font-family: 'roboto';
+    
+}
+.foods {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 150px;
+    margin-left: -465px;
+    margin-right: -357px;
+    
+   
+    
+  
+   
+    
+}
+.food {
+    text-align: center;
+  
+  box-sizing: border-box;
+  padding: 10px 130px 10px 130px;
+   flex-basis: 40%;  
+   margin-bottom: 20px;
+}
+.r {
+    max-width: 170px;
+    max-height: 160px;
+    float: right;
+    margin-top: -3px;
+    margin-right: -5px;
+    
+}
+.g {
+    max-width: 170px;
+    max-height: 160px;
+    float: right;
+    margin-right: -5px;
+    margin-top: -3px;
+    
+    background-color: #757575;
+}
+.food-name {
+    max-width: 308px;
+    font-size: 16px;
+    max-height: 24px;
+    text-align: left;
+    vertical-align: center;
+    color: #1d1d1d;
+    margin: 10px 0px 0px 5px;
+    
+}
+.time_1 {
+    float: left;
+    font-style: medium;
+    margin-top: 95px;
+    margin-left: 5px;
+    font-size: 15px;
+    line-height: 21px;
+    text-align: left;
+    vertical-align: center;
+    color:#1d1d1d;
+}
+.time_2 {
+    float: left;
+    font-style: medium;
+    padding-top: 80px;
+    margin-left: -110px;
+    font-size: 15px;
+    line-height: 21px;
+    text-align: left;
+    vertical-align: center;
+    color:#1d1d1d;
+}
+.jis {
+    border: 1px solid;
+    padding: 3px 5px 128px 5px;
+}
+.bis {
+    border: 1px solid;
+    padding: 3px 5px 128px 5px;
+}
+.dis {
+    border: 1px solid;
+    padding: 3px 5px 128px 5px;
+}
+.kis {
+    border: 1px solid;
+    padding: 3px 5px 128px 5px;
+}
+.lis {
+    border: 1px solid;
+    padding: 3px 5px 128px 5px;
+}
+.mis {
+    border: 1px solid;
+    padding: 3px 5px 128px 5px;
+}
+.o {
+    float: left;
+    font-size: 13px;
+    color: #626262;
+    text-align: left;
+    vertical-align: center;
+    margin-left: 5px;
 }
