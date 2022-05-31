@@ -86,3 +86,58 @@ ul li a {
     position: relative;
     color: #1d1d1d;
 }
+.sec {
+    margin-top: -30px;
+        
+}
+.tractir {
+    background-image: url(images_res/d42ea9bbf7aff297c2e1eb5e5f3b7fa6-w1080-87.png); 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin-right: -400px;
+    
+    margin-left: -800px;
+  
+   margin-top: 10px;
+    
+    padding-bottom: 780px;
+    
+}
+.pushkin_1 {
+    margin-top: -620px;
+    float: left;
+    padding: 40px 50px 40px 50px;
+    background-color: #ffffff;
+}
+.pushkin {
+    color:#1d1d1d;
+    font-size: 36px;
+    vertical-align: bottom;
+    margin-top: 10px;
+}
+ul.price {
+   padding-top: 30px;
+}
+ul.price li.euros {
+    display: block;
+    float: left;
+    list-style-type: none;
+    margin-left: -46px;
+    
+}
+li.euros, li.name_name {
+    padding-right: 15px;
+    font-family: "roboto", sans-serif;
+    font-size: 14px;
+    vertical-align: bottom;
+    color: #626262;
+}
+.time_time {
+    border: 1px solid #262626;
+    border-radius: 16px;
+    background-color:#262626;
+    float: right;
+    margin-top: -50px;
+    color: #ffffff;
+    padding: 10px 30px 10px 30px;
+}
