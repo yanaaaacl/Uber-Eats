@@ -72,7 +72,11 @@ ul.ki li.border_1, li.ji, ul.kitchen li.not, li.yes {
     border: 1px solid #e0e0e0;
     padding-right: 10px;
     padding-left: 10px;
-    
+    font-style: medium;
+    font-size: 13px;
+    vertical-align: center;
+    color: #1d1d1d;
+    font-family: "roboto", sans-serif;
     
 }
 ul li a {
@@ -391,7 +395,7 @@ ul.social_1 {
 .done {
     font-size: 11px;
     color: #ffffff;
-    margin-bottom: 30px;
+    margin-bottom: 50px;
     
     
 }
@@ -407,17 +411,18 @@ ul.social_1 {
 }
 .l {
     float: left;
-    margin-leftt: 200px;
+    margin-left: 200px;
     margin-bottom: 30px;
 }
 .fiksi {
     position: fixed;
-    top: 350px;
-    left: 0px;
+    top: 930px;
+    right: 90px;
     background-color:#49a144;
+    
 }
 .fiksi .spape_1 {
     border: none;
-    
+    padding: 20px 30px 20px 30px;
 }
 
